@@ -40,9 +40,18 @@ function currentHour() {
     }
 }
 
+function save() {
+    localStorage.setItem("text", text.value);
+}
+
+window.onload = function(){
+    saveButtons.click(save);
+    text.value = localStorage.getItem("text");
+    textarea = document.getElementById("text");
+};
 
 saveButtons.click(function(){
-    
+
 })
 
 currentHour()
