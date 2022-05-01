@@ -6,5 +6,5 @@ The task manager is colour coded to assist you in your planning, grey meaning ti
 red for happening right now or green for still time. 
 
 screenshot  ![](./05-daily-task-calendar.PNG)
-link to deployed application (https://github.com/NA-Ag/05-Assignment-Calendar)
+link to deployed application (https://na-ag.github.io/05-Assignment-Calendar/)
 
