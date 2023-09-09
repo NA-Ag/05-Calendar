@@ -1,4 +1,4 @@
-# 05-Assignment-Calendar
+# 05-Calendar
 A planner app to help you organize yourself.
 
 You can now add the tasks that require attention in this easy to use daily task manager. 
